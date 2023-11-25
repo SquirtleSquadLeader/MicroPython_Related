@@ -1,0 +1,12 @@
+Product IDs can be entered into Adafruit.com's search to find the exact
+part I used.  Also available via digikey (I think).  Or substitute as you
+see fit :)
+
+Raspberry Pi Pico W (Product ID: 5526)
+Adafruit DS3231 Precision RTC Breakout (Product ID: 3013)
+Adafruit 1.3" 240x240 Wide Angle TFT LCD Display with MicroSD - ST7789 (Product ID: 4313)
+Mini Oval Speaker with Short Wires - 8 Ohm 1 Watt (Product ID: 4227)
+Adafruit I2S 3W Class D Amplifier Breakout - MAX98357A (Product ID: 3006)
+
+Additoinal hardware to be determined as project evolves... standoffs etc...
+

@@ -1,0 +1,14 @@
+Requirements for Initial Release:
+
+1) Battery powered
+	a) A few hours minimum to survive non-catastrophic power outage
+	b) Chargeable via USB power supply
+2) Reprogrammable 
+	a) Circuit Python Web Workflow 
+	b) OR USB 
+3) Display accurate time with TFT display
+4) Display battery life
+5) Allow for 1 alarm to emit an audio alert
+6) Be durable enough to move around without falling apart instantly
+
+

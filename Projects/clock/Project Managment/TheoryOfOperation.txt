@@ -1,0 +1,12 @@
+Theory of operation
+
+The Raspberry Pi Pico W will initialize the DS3231 breakout, via I2C, and set 
+the local time.  Via SPI, the Pico W will display that time by updating the TFT display.  
+An alarm will be able to be programmed by the user (initially hardcoded in - physical buttons to 
+follow).  When the clock goes into an alarm state, the Pico will communicate
+via I2S to the audio amplifier.  This will drive the speaker to make some kind of noise.
+This may require releasing the I2C bus so that the I2S can operate
+without losing the display (RESEARCH/TESTING REQ'D).  After the alarm state 
+ends the device will return to normal operation and display time. Data 
+can be stored on the microSD card of the TFT display.  This leaves room
+for expansion of the visual system and other settings/configurations.
